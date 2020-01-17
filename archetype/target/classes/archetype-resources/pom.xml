@@ -76,7 +76,7 @@
                                 <operatingSystem>
                                     <name>Windows 10</name>
                                     <dests>
-                                        <dest>G:\july_ss\mc_servers\1.12.2_paper\plugins\${artifactId}.jar</dest>
+                                        <dest>G:\july_ss\mc_servers\1.12.2_paper\plugins\\${artifactId}.jar</dest>
                                     </dests>
                                     <overwrite>true</overwrite>
                                 </operatingSystem>
